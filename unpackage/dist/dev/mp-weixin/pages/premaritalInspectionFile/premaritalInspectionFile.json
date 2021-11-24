@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "婚前检查自助建档",
+  "usingComponents": {
+    "u-tabs-swiper": "/node-modules/uview-ui/components/u-tabs-swiper/u-tabs-swiper",
+    "u-form": "/node-modules/uview-ui/components/u-form/u-form",
+    "u-form-item": "/node-modules/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/node-modules/uview-ui/components/u-input/u-input",
+    "u-switch": "/node-modules/uview-ui/components/u-switch/u-switch",
+    "u-radio-group": "/node-modules/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/node-modules/uview-ui/components/u-radio/u-radio",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button",
+    "u-select": "/node-modules/uview-ui/components/u-select/u-select"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "婚前检查自助建档",
+  "usingComponents": {
+    "free-tabs": "/components/free-tabs/free-tabs"
+  }
+}

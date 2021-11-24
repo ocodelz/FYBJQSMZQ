@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "u-tabs-swiper": "/node-modules/uview-ui/components/u-tabs-swiper/u-tabs-swiper",
+    "free-form": "/components/free-form/free-form",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  },
+  "component": true
+}

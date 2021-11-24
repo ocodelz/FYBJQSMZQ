@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "桓台县妇幼保健院",
+  "usingComponents": {
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/tabbar/hospital/hospital",
+    "pages/tabbar/index/index",
+    "pages/tabbar/consulting/consulting",
+    "pages/tabbar/user/user",
+    "pages/premaritalInspectionFile/premaritalInspectionFile",
+    "pages/pregnantWomenFile/pregnantWomenFile"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "selectedColor": "#d4237a",
+    "list": [
+      {
+        "pagePath": "pages/tabbar/index/index",
+        "iconPath": "static/images/tabbar/index.png",
+        "selectedIconPath": "static/images/tabbar/index_active.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabbar/hospital/hospital",
+        "iconPath": "static/images/tabbar/hospital.png",
+        "selectedIconPath": "static/images/tabbar/hospital_active.png",
+        "text": "医院"
+      },
+      {
+        "pagePath": "pages/tabbar/consulting/consulting",
+        "iconPath": "static/images/tabbar/consulting.png",
+        "selectedIconPath": "static/images/tabbar/consulting_active.png",
+        "text": "资讯"
+      },
+      {
+        "pagePath": "pages/tabbar/user/user",
+        "iconPath": "static/images/tabbar/user.png",
+        "selectedIconPath": "static/images/tabbar/user_active.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
